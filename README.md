@@ -19,4 +19,7 @@
 - Retrofit, Gson
 - Glide
 
-
+### Скрины
+![photo_2023-01-16_09-21-18 (2)](https://user-images.githubusercontent.com/47312133/212633832-4215b3cb-b3e0-4fd0-a747-090f16af5c77.jpg)
+##
+![photo_2023-01-16_09-21-18](https://user-images.githubusercontent.com/47312133/212633979-4be08edd-898d-42ba-89fa-545f55304c8f.jpg)
